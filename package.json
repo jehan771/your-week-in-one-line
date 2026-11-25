@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"One line, at most 100 characters, that sums up the agent's week.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"your-week-in-one-line","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
